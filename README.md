@@ -27,9 +27,9 @@ This project builds a machine learning model to classify text into predefined to
 
 ## System Specs
 
-- Python 3.10 or above  
-- 16 GB RAM recommended  
-- Windows
+- Python 3.13 
+- 16 GB RAM 
+- Windows 11 
 - rx 6700xt 12GB
 
 ---
