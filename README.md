@@ -25,7 +25,7 @@ This project builds a machine learning model to classify text into predefined to
 
 ---
 
-## System Requirements
+## System Specs
 
 - Python 3.10 or above  
 - 16 GB RAM recommended  
@@ -103,7 +103,8 @@ Enter any text and the model will predict the topic.
 
 ## Sample Output
 
-(Add screenshots here)
+<img width="1041" height="207" alt="image" src="https://github.com/user-attachments/assets/0d77315e-3324-4bb7-976d-2861b733022b" />
+
 
 ---
 
